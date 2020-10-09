@@ -6,4 +6,4 @@ Project Info:
 -   Movie info
 -   Movie score
 
-The API used were from "https://www.themoviedb.org/"
+The APIs used were from "https://www.themoviedb.org/"
